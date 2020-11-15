@@ -1,0 +1,40 @@
+{
+  "app_name": "Earthquake",
+  "home": {
+    "map": "Map",
+    "reports" : "Báo cáo",
+    "sos" : "SOS",
+    "alert" : "Alert",
+    "settings": "Settings",
+    "about": "About",
+    "faq": "F.A.Q",
+    "terms_and_conditions": "Terms and Conditions",
+    "privacy_policy": "Privacy policy",
+    "refresh": "Refresh",
+    "titleDialog": "Để có trải nghiệm tốt hơn, hãy bật vị trí thiết bị bằng cách sử dụng dịch vụ vị trí của Google"
+  },
+  "search": "Search",
+  "settings": {
+    "emergency" : "Emergency",
+    "e-mail": "e-mails",
+    "sms" : "SMS",
+    "smsdes": "SMS sending configuration",
+    "save": "Save",
+    "saved": "Saved",
+    "error_null_phone": "Empty Phone",
+    "my_region": "My region",
+    "notifications": "Notifications",
+    "descriptionNoti" : "Configuration how and when you will receive a notification ",
+    "maps": "Maps",
+    "descriptionMap" : "Change the stype of the map that you want",
+    "map_type": "Map Type",
+    "map_type_description": "Change the style of the map you'd like to see in the app.",
+    "sos" : "SOS",
+    "descriptionSOS" : "Enable send message to list of contacts",
+    "other": "Others"
+  },
+  "details": {
+    "map" : "Map",
+    "overview" : "Overview"
+  }
+}
